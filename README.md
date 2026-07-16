@@ -3,17 +3,13 @@
 ---
 
 # 📖 Overview
-
 **EcoSphere** is a comprehensive ESG (Environmental, Social, and Governance) Management Platform designed to help organizations monitor, manage, and improve their sustainability initiatives through a centralized web application.
 
 The platform enables organizations to track environmental metrics, manage CSR activities, monitor governance and compliance, engage employees through gamification, and generate insightful ESG reports—all within a single, user-friendly interface.
 
 ---
 
-# ✨ Features
-
 ## 🌍 Environmental
-
 * Carbon emission tracking
 * Carbon transaction management
 * Emission factor management
@@ -24,7 +20,6 @@ The platform enables organizations to track environmental metrics, manage CSR ac
 ---
 
 ## 👥 Social
-
 * Employee management
 * CSR activity management
 * ESG challenges
@@ -36,7 +31,6 @@ The platform enables organizations to track environmental metrics, manage CSR ac
 ---
 
 ## 🏛 Governance
-
 * Governance policy management
 * Compliance issue tracking
 * Governance monitoring
