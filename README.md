@@ -1,13 +1,5 @@
 # 🌱 EcoSphere – ESG Management Platform
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-19-blue?logo=react">
-  <img src="https://img.shields.io/badge/Vite-Latest-646CFF?logo=vite">
-  <img src="https://img.shields.io/badge/Node.js-Express-green?logo=node.js">
-  <img src="https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite">
-  <img src="https://img.shields.io/badge/License-MIT-yellow">
-</p>
-
 ---
 
 # 📖 Overview
@@ -206,53 +198,6 @@ EcoSphere_Project/
 └── README.md
 ```
 
----
-
-# 🚀 Installation
-
-## Clone the Repository
-
-```bash
-git clone https://github.com/SanikaZade/EcoSphere_Project.git
-cd EcoSphere_Project
-```
-
-## Install Dependencies
-
-```bash
-npm install
-```
-
-## Configure Environment Variables
-
-Create a `.env` file in the project root.
-
-```env
-JWT_SECRET=your_secret_key
-PORT=4000
-FRONTEND_URL=http://localhost:5173
-```
-
-## Run in Development Mode
-
-```bash
-npm run dev
-```
-
-## Run the Application
-
-```bash
-npm start
-```
-
-## Build the Project
-
-```bash
-npm run build
-```
-
----
-
 # 🗄 Database
 
 EcoSphere uses **SQLite** as its local database.
@@ -361,33 +306,4 @@ Allows administrators to configure system settings and manage platform preferenc
 
 ---
 
-# 👩‍💻 Developer
-
-**Sanika Zade**
-
-Final Year B.Tech – Artificial Intelligence & Machine Learning
-
-Faculty of Engineering & Technology
-
-Datta Meghe Institute of Higher Education & Research (DMIHER), Wardha
-
-GitHub: https://github.com/SanikaZade
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Push your branch.
-5. Open a Pull Request.
-
----
-
-# 📄 License
-
-This project is developed for educational and learning purposes. You are welcome to use, modify, and enhance it with proper attribution.
 
