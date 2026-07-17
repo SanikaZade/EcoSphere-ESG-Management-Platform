@@ -256,8 +256,7 @@ GET /api/health
 ---
 
 # 📌 Application Modules
-
-### Dashboard
+- Dashboard
 
 Provides an overview of ESG metrics through interactive charts and summary cards.
 
