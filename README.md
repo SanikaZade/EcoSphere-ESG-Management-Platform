@@ -257,31 +257,24 @@ GET /api/health
 
 # 📌 Application Modules
 - Dashboard
-
 Provides an overview of ESG metrics through interactive charts and summary cards.
 
-### Environmental
+- Environmental
+Tracks carbon emissions, emission factors, sustainability goals, and product profiles
 
-Tracks carbon emissions, emission factors, sustainability goals, and product profiles.
-
-### Social
-
+- Social
 Manages employees, CSR activities, ESG challenges, rewards, badges, and engagement.
 
-### Governance
-
+- Governance
 Handles governance policies, compliance issues, audits, and governance monitoring.
 
-### Reports
-
+- Reports
 Generates downloadable ESG reports in PDF and Excel formats.
 
-### Master Data
-
+- Master Data
 Maintains reference data such as departments, categories, employees, emission factors, product profiles, goals, and policies.
 
-### Settings
-
+- Settings
 Allows administrators to configure system settings and manage platform preferences.
 
 ---
