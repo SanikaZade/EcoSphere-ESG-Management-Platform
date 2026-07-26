@@ -197,7 +197,6 @@ EcoSphere_Project/
 EcoSphere uses **SQLite** as its local database.
 
 When the application starts for the first time, it automatically:
-
 * Creates the SQLite database
 * Executes `schema.sql`
 * Seeds initial sample data from `seed.sql`
